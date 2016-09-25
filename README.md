@@ -34,7 +34,11 @@ dotnet new
 dotnet restore
 dotnet run
 ```
-*  Using Xamarin Studio
-Start a new Solution -> .NET  Empty Project
 
+*  Using Xamarin Studio
+```
+- File -> New -> Solution
+- Other -> .NET
+- Empty Project
+```
 
