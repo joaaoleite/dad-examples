@@ -1,6 +1,6 @@
 # DAD
 
-# Install for macOS
+### Install for macOS
 
 ```sh
 # install openssl
@@ -21,7 +21,7 @@ brew cask install mono-mdk
 brew cask install xamarin-studio
 ```
 
-#  Start a new .NET  project
+### Start a new .NET  project
 
 * Using command line tool
 ```sh
