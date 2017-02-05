@@ -1,4 +1,4 @@
-# DAD
+# .NET Example projects
 
 ### Install for macOS
 
